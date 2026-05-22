@@ -1,3 +1,7 @@
+local env = getfenv(0)
+local Drawing = env.Drawing
+local Color3 = env.Color3
+local workspace = env.workspace
 
 local RenderManager = {}
 
