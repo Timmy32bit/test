@@ -1,6 +1,5 @@
 
 local RenderManager = {}
-RenderManager.__index = RenderManager
 
 local pools = {}
 local activeDrawings = {}
